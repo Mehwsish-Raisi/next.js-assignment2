@@ -1,5 +1,10 @@
 .css {
     font-weight: bold;
     text-decoration: underline;
+    text-align: center;
     
+}
+
+.paragraph {
+    text-align: center;
 }

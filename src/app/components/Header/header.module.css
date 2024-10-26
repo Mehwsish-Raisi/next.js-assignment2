@@ -1,7 +1,29 @@
-.design {
-    background-color: cornflowerblue;
-    color: blue;
-    font-weight: bold;
-    padding: 2opx;
-    
+
+.heading {
+    background-image: linear-gradient(#033747,#1c6880);
+    color: antiquewhite;
+    padding: 20px;
 }
+
+ .design {
+    
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+ }
+
+ .list {
+    display: flex;
+    padding-right: 24px;
+ }
+
+ .h1 {
+    font-weight: bold;
+    font-size: 25px;
+ }
+
+ .style {
+    padding-left: 24px;
+ }
