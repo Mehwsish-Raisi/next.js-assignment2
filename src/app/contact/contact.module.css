@@ -1,0 +1,14 @@
+.contact {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.paragraph {
+    text-align: center;
+}
+.mail {
+    text-decoration: underline;
+}

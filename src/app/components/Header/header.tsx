@@ -9,8 +9,8 @@ const HeaderPage = () => {
                 <nav>
                     <ul className={headerStyle.list}>
                         <li><Link href="/" className={headerStyle.style}>Home</Link></li>
-                        <li><Link href="#" className={headerStyle.style}>About</Link></li>
-                        <li><Link href="#" className={headerStyle.style}>Contact</Link></li>
+                        <li><Link href="./about" className={headerStyle.style}>About</Link></li>
+                        <li><Link href="./contact" className={headerStyle.style}>Contact</Link></li>
                     </ul>
 
                 </nav>
